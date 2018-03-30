@@ -8,7 +8,7 @@ Esse repositório é destinado à execução do primeiro módulo da disciplina E
 |:--:|:--:|
 |**Cecília Dib**|@ceciliadib|
 |**Rafael Bragança**|@rafaelbrg|
-|**Gabriel Correia**||
+|**Gabriel Correia**|@gabrielcorreia98|
 
 
 ### Problema 1
